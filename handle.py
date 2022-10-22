@@ -1,5 +1,5 @@
+a = ['H', 'E', 'Y'] 
 
-
-print("new changes")
+for i in a: print(ord(i))
 
 
